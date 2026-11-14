@@ -137,7 +137,6 @@ Once your databases are ready, you can either connect the current agents to the 
 - **LangGraph**
 - **LangSmith**
 - **Gradio:** [Documentation](https://www.gradio.app/docs/interface)
-- **OpenAI:** [Developer Quickstart](https://platform.openai.com/docs/quickstart?context=python)
 - **Tavily Search**
 ---
 
