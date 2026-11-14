@@ -1,5 +1,6 @@
 ---
 title: QueryMind
+---
 
 # AgentGraph: Intelligent SQL-agent Q&A and RAG System for Chatting with Multiple Databases
 
